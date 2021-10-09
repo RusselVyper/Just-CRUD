@@ -70,8 +70,8 @@
 <h2>D-E-L-E-T-E</h2>
 <form action="delete" method="post">
   <input type="hidden" name="_token" value="{{ csrf_token() }}" />   
-    <label for="name">ID</label>
-    <input type="number" class="form-control" id="id" name="id" placeholder="Enter Name">
+    <label for="id">ID</label>
+    <input type="number" class="form-control" id="id" name="id" placeholder="Enter ID">
     <button type="submit" class="btn btn-danger mb-5" style="margin:5px">Submit</button>
     <br>
 	</form>
