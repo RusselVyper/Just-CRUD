@@ -77,6 +77,7 @@
 	</form>
 </div>
 
+<!-- footer -->
 <footer class="text-center text-white pb-3 pt-3" style="background-color:black" >
 © Russel 2021 - Just a CRUD app 
 </footer>
